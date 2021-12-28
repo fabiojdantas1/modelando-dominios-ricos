@@ -1,0 +1,12 @@
+obj
+PaymentContext.sln
+PaymentContex.Domain/bin
+PaymentContex.Domain/obj
+PaymentContex.Shared/bin
+PaymentContex.Shared/obj
+PaymentContex.Tests/bin
+PaymentContex.Tests/obj
+
+.fake
+.ionide
+.vscode
